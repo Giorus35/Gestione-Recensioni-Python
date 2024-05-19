@@ -5,9 +5,9 @@
 Questo software è stato sviluppato per aiutare i gestori di luoghi come ristoranti, hotel, B&B e altri a monitorare e comprendere l'opinione dei clienti attraverso le recensioni. L'obiettivo principale è fornire un'analisi del sentiment delle recensioni, identificare se il luogo sta peggiorando o migliorando e consentire ai gestori di prendere decisioni informate per migliorare l'esperienza complessiva dei clienti. Il sentiment è il punteggio calcolato attraverso la libreria TextBlob.
 
 **ATTENZIONE:**  
-SCRIVERE RECENSIONI IN INGLESE  
+- SCRIVERE RECENSIONI IN INGLESE  
 TextBlob, di default, analizza le recensioni in lingua inglese. Se si immette una recensione in una lingua diversa, il sentiment calcolato sarà pari a 0.
-
+- Al primo avvio aspettare almeno 30 secondi per l'esecuzione
 ## Funzionalità Principali
 
 1. **Informazioni sul Software:** Visualizza le informazioni generali sul software e le sue funzionalità.
