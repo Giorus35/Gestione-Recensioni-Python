@@ -9,6 +9,7 @@ Questo software è stato sviluppato per aiutare i gestori di luoghi come ristora
 TextBlob, di default, analizza le recensioni in lingua inglese. Se si immette una recensione in una lingua diversa, il sentiment calcolato sarà pari a 0.
 - Al primo avvio aspettare almeno 30 secondi per l'esecuzione
 - Per maggiori informazioni guardare la documentazione
+- È stato fornito un file di test chiamato "recensioni.txt"
 ## Funzionalità Principali
 
 1. **Informazioni sul Software:** Visualizza le informazioni generali sul software e le sue funzionalità.
